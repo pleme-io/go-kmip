@@ -19,7 +19,7 @@
         pname = "go-kmip";
         version = "0.0.0-dev";
         src = self;
-        vendorHash = "sha256-KemjY8oC4UmBhp79TF5st6PsoLq32edL9SaSK/L/FsA="; # COMPUTING
+        vendorHash = "sha256-KemjY8oC4UmBhp79TF5st6PsoLq32edL9SaSK/L/FsA=";
       };
 
       devShells.default = pkgs.mkShellNoCC {
